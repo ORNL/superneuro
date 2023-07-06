@@ -17,7 +17,9 @@ SuperNeuroABM allows one to run simulations on GPUs. It can be accessed by insta
 
 ## Accessing the submodules:
 After doing a git clone on the top level superneuro repository, to get access to the individual submodules containing the two modes:
+
 `git submodule init`
+
 `git submodule update`
 
 
