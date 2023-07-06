@@ -1,4 +1,4 @@
-# superneuro
+# SuperNeuro
 Neuromorphic simulator with two modes of computation:
 
 1. Agent Based Mode (ABM) - SuperNeuroABM
@@ -11,7 +11,9 @@ Usage:
 from superneuroabm.model import NeuromorphicModel
 
 SuperNeuroABM allows one to run simulations on GPUs. It can be accessed by instantiating the model as 
-# NeuromorphicModel(use_cuda = True)
+
+NeuromorphicModel(use_cuda = True)
+
 
 Intstallation: SuperNeuroMAT
 pip install git+https://github.com/ORNL/superneuromat.git
