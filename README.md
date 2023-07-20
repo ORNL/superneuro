@@ -31,5 +31,5 @@ After doing a git clone on the top level superneuro repository, to get access to
 
 In each of the modes, the neuromorphicmodel allows the user to create neurons and synapses as per the application or algorithm requirements.
 
-## Coming soon:
-Jupyter notebooks with tutorials for each of the two modes of SuperNeuro.
+## Tutorials:
+Jupyter notebooks with tutorials for each of the two modes of SuperNeuro are located in the 'Tutorials' directory.
