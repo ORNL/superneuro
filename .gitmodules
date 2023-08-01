@@ -1,6 +1,0 @@
-[submodule "superneuromat"]
-	path = superneuromat
-	url = https://github.com/ORNL/superneuromat.git
-[submodule "superneuroabm"]
-	path = superneuroabm
-	url = https://github.com/ORNL/superneuroabm.git
