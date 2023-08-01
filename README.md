@@ -6,7 +6,15 @@ Neuromorphic simulator with two modes of computation:
 
 ## Installation: SuperNeuroABM
 
-Requirements: Python version >=3.8
+**Requirements:**
+
+Python version >=3.8
+
+**Optional requirements if running on GPU:**
+
+CUDA enabled GPU with compute compatibility 6.0+
+
+CUDA drivers
 
 `pip install superneuroabm`
 
