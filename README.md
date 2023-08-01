@@ -5,6 +5,13 @@ Neuromorphic simulator with two modes of computation:
 2. Matrix  Computation - SuperNeuroMAT
 
 ## Installation: SuperNeuroABM
+
+Requirements: Python version >=3.8
+
+`pip install superneuroabm`
+
+Or if the above doesn't work, you can try this:
+
 `pip install git+https://github.com/ORNL/superneuroabm`
 
 ### Usage: 
@@ -24,9 +31,17 @@ After doing a git clone on the top level superneuro repository, to get access to
 
 
 ## Intstallation: SuperNeuroMAT
+
+Requirements: Python version >=3.8
+
+`pip install superneuromat`
+
+Or if the above doesn't work try the following from the github repo:
+
 `pip install git+https://github.com/ORNL/superneuromat.git`
 
 ### Usage:
+
 `from superneuromat.neuromorphicmodel import NeuromorphicModel`
 
 In each of the modes, the neuromorphicmodel allows the user to create neurons and synapses as per the application or algorithm requirements.
