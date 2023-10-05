@@ -48,3 +48,9 @@ In each of the modes, the neuromorphicmodel allows the user to create neurons an
 
 ## Tutorials:
 Jupyter notebooks with tutorials for each of the two modes of SuperNeuro are located in the 'Tutorials' directory.
+
+## Publications:
+Arxiv Preprint available at:
+
+[Date. P., Gunaratne, C., Kulkarni, S., Patton, R., Coletti, M., & Potok, T. (2023). SuperNeuro: A Fast and Scalable Simulator for Neuromorphic Computing. arXiv preprint arXiv:2305.02510.
+](https://arxiv.org/abs/2305.02510)
