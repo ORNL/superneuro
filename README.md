@@ -8,31 +8,11 @@ Neuromorphic simulator with two modes of computation:
 
 **Requirements:**
 
-Python version >=3.8
-
-**Optional requirements if running on GPU:**
-
-CUDA enabled GPU with compute compatibility 6.0+
-
-CUDA drivers
-
-`pip install superneuroabm`
-
-Or if the above doesn't work, you can try this:
-
-`pip install git+https://github.com/ORNL/superneuroabm`
-
-### Usage: 
-`from superneuroabm.model import NeuromorphicModel`
-
-SuperNeuroABM allows one to run simulations on GPUs. It can be accessed by instantiating the model as 
-
-`NeuromorphicModel(use_cuda = True)`
-
+Python version >=3.11
 
 ## Intstallation: SuperNeuroMAT
 
-Requirements: Python version >=3.8
+Requirements: Python version >=3.11
 
 `pip install superneuromat`
 
@@ -40,14 +20,9 @@ Or if the above doesn't work try the following from the github repo:
 
 `pip install git+https://github.com/ORNL/superneuromat.git`
 
-### Usage:
-
-`from superneuromat.neuromorphicmodel import NeuromorphicModel`
-
-In each of the modes, the neuromorphicmodel allows the user to create neurons and synapses as per the application or algorithm requirements.
 
 ## Tutorials:
-Jupyter notebooks with tutorials for each of the two modes of SuperNeuro are located in the 'Tutorials' directory.
+Latest versions of Jupyter notebooks with tutorials for each of the two modes of SuperNeuro are located in the 'Tutorials' directory.
 
 ## Publications:
 Arxiv Preprint available at:
