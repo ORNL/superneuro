@@ -10,7 +10,7 @@ Neuromorphic simulator with two modes of computation:
 
 Python version >=3.11
 
-## Intstallation: SuperNeuroMAT
+## Installation: SuperNeuroMAT
 
 Requirements: Python version >=3.11
 
