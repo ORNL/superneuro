@@ -21,7 +21,7 @@ SuperNeuro is a neuromorphic simulator for Spiking Neural Networks. It has two m
    * Check out our tutorial for a [Spiking Handwritten Digits Classifier using `superneuromat`](https://colab.research.google.com/drive/1A8skdSiRBrl6bbrIs_BXauZIF-5IhE9R?usp=sharing) on Google colab!
       Also available as a downloadable jupyter notebook in the [`tutorials/` folder](https://github.com/ORNL/superneuro/tree/main/tutorials).
 * **NeuroCoreX**
-   * Want to try inferencing digits on real hardware? Try our NeuroCoreX Inferencing Digits demo [coming soon]!
+   * Want to try inferencing digits on real hardware? Try our NeuroCoreX Inferencing Digits demo [[coming soon](https://github.com/ORNL/NeuroCoreX/blob/main/Tutorials/NeuroCoreX_Serial_Comm_DIGITS_Tutorial_SNMv3_ICONS.ipynb)]!
 * **SuperNeuroABM**
    * Try our [SuperNeuroABM Tutorial: Building Heterogeneous Spiking Neural Networks](https://github.com/ORNL/superneuro/blob/main/tutorials/00_simple_heterogenous_network.ipynb), available to download in the [`tutorials/` folder](https://github.com/ORNL/superneuro/tree/main/tutorials)!
 
